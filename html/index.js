@@ -30,9 +30,9 @@ var index =
       ] ],
       [ "Server Mode", "index.html#autotoc_md24", [
         [ "Telnet Testing", "index.html#autotoc_md25", [
-          [ "Store a key-value pair (SET)", "index.html#autotoc_md26", null ],
-          [ "Retrieve a value (GET)", "index.html#autotoc_md27", null ],
-          [ "Delete a key (DEL)", "index.html#autotoc_md28", null ]
+          [ "Store a key-value pair (<span class=\"tt\">SET</span>)", "index.html#autotoc_md26", null ],
+          [ "Retrieve a value (<span class=\"tt\">GET</span>)", "index.html#autotoc_md27", null ],
+          [ "Delete a key (<span class=\"tt\">DEL</span>)", "index.html#autotoc_md28", null ]
         ] ]
       ] ]
     ] ],

@@ -1,7 +1,7 @@
 var searchData=
 [
   ['pair_0',['Set a key-value pair',['../index.html#autotoc_md16',1,'']]],
-  ['pair_20tt_20set_20tt_1',['Store a key-value pair (&lt;tt&gt;SET&lt;/tt&gt;)',['../index.html#autotoc_md26',1,'']]],
+  ['pair_20set_1',['Store a key-value pair (&lt;span class=&quot;tt&quot;&gt;SET&lt;/span&gt;)',['../index.html#autotoc_md26',1,'']]],
   ['parser_2',['parser',['../class_command_parser.html#a1211f115c4a17aba10ad49e3606504ff',1,'CommandParser']]],
   ['performance_20results_3',['Performance Results',['../index.html#autotoc_md30',1,'']]],
   ['project_20structure_4',['Project Structure',['../index.html#autotoc_md2',1,'']]],

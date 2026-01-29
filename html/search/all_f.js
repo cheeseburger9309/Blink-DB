@@ -8,7 +8,7 @@ var searchData=
   ['respencoder_5',['RespEncoder',['../class_resp_encoder.html',1,'']]],
   ['results_6',['Results',['../index.html#autotoc_md29',1,'Benchmark Results'],['../index.html#autotoc_md30',1,'Performance Results']]],
   ['retrieve_20a_20value_7',['Retrieve a value',['../index.html#autotoc_md17',1,'']]],
-  ['retrieve_20a_20value_20tt_20get_20tt_8',['Retrieve a value (&lt;tt&gt;GET&lt;/tt&gt;)',['../index.html#autotoc_md27',1,'']]],
+  ['retrieve_20a_20value_20get_8',['Retrieve a value (&lt;span class=&quot;tt&quot;&gt;GET&lt;/span&gt;)',['../index.html#autotoc_md27',1,'']]],
   ['run_9',['run',['../class_kqueue_server.html#adc1da065f711e5ac8458e1fc162a6dde',1,'KqueueServer']]],
   ['run_20the_20cli_10',['Build and Run the CLI',['../index.html#autotoc_md8',1,'']]],
   ['run_20the_20server_11',['Build and Run the Server',['../index.html#autotoc_md7',1,'']]]

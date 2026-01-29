@@ -1,8 +1,8 @@
 var searchData=
 [
   ['generate_20documentation_0',['Generate Documentation',['../index.html#autotoc_md10',1,'']]],
-  ['get_1',['get',['../class_l_s_m_tree.html#a220878990d5d78a5b4770cb757c84a70',1,'LSMTree::get()'],['../class_mem_table.html#a90519da1d9b07d9142f9d389208df897',1,'MemTable::get()'],['../class_skip_list.html#addb9dcf26b9a542bfce47dcb70e7f164',1,'SkipList::get()']]],
-  ['get_20tt_2',['Retrieve a value (&lt;tt&gt;GET&lt;/tt&gt;)',['../index.html#autotoc_md27',1,'']]],
+  ['get_1',['Retrieve a value (&lt;span class=&quot;tt&quot;&gt;GET&lt;/span&gt;)',['../index.html#autotoc_md27',1,'']]],
+  ['get_2',['get',['../class_l_s_m_tree.html#a220878990d5d78a5b4770cb757c84a70',1,'LSMTree::get()'],['../class_mem_table.html#a90519da1d9b07d9142f9d389208df897',1,'MemTable::get()'],['../class_skip_list.html#addb9dcf26b9a542bfce47dcb70e7f164',1,'SkipList::get()']]],
   ['getdatafilename_3',['getDataFilename',['../class_s_s___table.html#aa46ec01e54369abf67a3cb3c61a6cc2d',1,'SS_Table']]],
   ['getheader_4',['getHeader',['../cli_8cpp.html#ae850951ec77226f0ad19573bbde18f8f',1,'cli.cpp']]],
   ['getindexfile_5',['getIndexFile',['../class_s_s___table.html#ac06e7dcfd10e16460ade12d86a4fddc0',1,'SS_Table']]],
