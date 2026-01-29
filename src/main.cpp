@@ -1,6 +1,6 @@
 /**
  * @file main.cpp
- * @author Gana Jayant Sigadam
+ * @author Sai Kasyap Jannabhatla
  * @brief
  * @version 1.0
  * @date March 2025

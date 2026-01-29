@@ -5,7 +5,7 @@
  *          and processes RESP commands. It uses the LSMTree engine for data storage
  *          and retrieval. The server listens for incoming connections, decodes RESP commands,
  *          and sends responses back to the clients.
- * @author Gana Jayant Sigadam
+ * @author Sai Kasyap Jannabhatla
  * @date 2025-03-28
  * @version 1.0
  */

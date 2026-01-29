@@ -1,7 +1,7 @@
 /**
  * @file sstable.hpp
  * @brief SSTable implementation
- * @author Gana Jayant Sigadam
+ * @author Sai Kasyap Jannabhatla
  * @version 1.0
  * @date March 2025
  */

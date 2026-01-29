@@ -3,7 +3,7 @@
  * @brief Constants for the database engine.
  * @details This file contains various constants used throughout the database engine,
  *          including file extensions, directory names, and memory limits.
- * @author Gana Jayant Sigadam
+ * @author Sai Kasyap Jannabhatla
  * @date March 2025
  * @version 1.0
  */

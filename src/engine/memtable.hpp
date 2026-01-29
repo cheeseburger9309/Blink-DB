@@ -1,6 +1,6 @@
 /**
  * @file memtable.hpp
- * @author Gana Jayant Sigadam
+ * @author Sai Kasyap Jannabhatla
  * @brief MemTable Class
  * @details This class implements a MemTable using a skip list as In-Memory storage for LSM-Tree.
  * @version 1.0

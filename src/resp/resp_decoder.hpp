@@ -5,7 +5,7 @@
  *          responsible for parsing RESP commands and extracting the operation,
  *          key, and value from the input buffer. It also handles error cases
  *          and provides a structured response object.
- * @author Gana Jayant Sigadam
+ * @author Sai Kasyap Jannabhatla
  * @version 1.0
  * @date March 2025
  */

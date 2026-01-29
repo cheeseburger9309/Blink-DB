@@ -16,7 +16,7 @@
  * @note The command-line input is passed to a `CommandParser` class for parsing
  *       and processing.
  *
- * @author Gana Jayant Sigadam
+ * @author Sai Kasyap Jannabhatla
  * @date March 2025
  * @version 1.0
  */

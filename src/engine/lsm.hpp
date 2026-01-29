@@ -2,7 +2,7 @@
  * @file lsm.hpp
  * @brief LSM Tree implementation
  * @details This file contains the implementation of the Log-Structured Merge Tree (LSM Tree) for efficient key-value storage.
- * @author Gana Jayant Sigadam
+ * @author Sai Kasyap Jannabhatla
  * @version 1.0
  * @date March 2025
  */

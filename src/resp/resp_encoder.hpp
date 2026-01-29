@@ -1,6 +1,6 @@
 /**
  * @file resp_encoder.hpp
- * @author Gana Jayant Sigadam
+ * @author Sai Kasyap Jannabhatla
  * @brief Used to encode messages into RESP (REdis Serialization Protocol) format.
  * @details This class provides static methods to encode different types of RESP
  * messages, including simple strings, errors, integers, bulk strings, and null

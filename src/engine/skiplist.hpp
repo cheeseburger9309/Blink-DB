@@ -3,7 +3,7 @@
  * @brief Skip List Implementation
  * @details This file contains the implementation of a skip list data structure
  *          for efficient key-value storage and retrieval. The skip list is used as a Memtable (In-Memory) for the LSM-Tree
- * @author Gana Jayant Sigadam
+ * @author Sai Kasyap Jannabhatla
  * @date March 2025
  * @version 1.0
  */

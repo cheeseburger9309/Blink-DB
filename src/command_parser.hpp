@@ -3,7 +3,7 @@
  * @brief Command Parser for command-line interface to interact with Database engine.
  * @details This class provides methods to parse and validate commands such as
  *          SET, GET, DEL, and help commands.
- * @author Gana Jayant Sigadam
+ * @author Sai Kasyap Jannabhatla
  * @date March 2025
  * @version 1.0
  */
